@@ -1,0 +1,12 @@
+{
+    "name": "Зарядка!",
+    "description": "Открывает отдельное окно с напоминанием о том, что необходимо сделать зарядку.",
+    "version": "2.0",
+    "manifest_version": 3,
+    "optional_permissions": ["tabs"],
+    "options_page": "window.html",
+    "options_ui": {
+      "page": "window.html"
+    },
+    "icons": { "16": "icon_16.png", "128": "icon_128.png" }
+  }

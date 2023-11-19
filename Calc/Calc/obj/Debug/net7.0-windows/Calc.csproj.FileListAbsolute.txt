@@ -1,0 +1,5 @@
+C:\Users\kathreen\Desktop\Задания\Calc\Calc\obj\Debug\net7.0-windows\Calc.csproj.AssemblyReference.cache
+C:\Users\kathreen\Desktop\Задания\Calc\Calc\obj\Debug\net7.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathreen\Desktop\Задания\Calc\Calc\obj\Debug\net7.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\kathreen\Desktop\Задания\Calc\Calc\obj\Debug\net7.0-windows\Calc.AssemblyInfo.cs
+C:\Users\kathreen\Desktop\Задания\Calc\Calc\obj\Debug\net7.0-windows\Calc.csproj.CoreCompileInputs.cache

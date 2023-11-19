@@ -1,0 +1,10 @@
+{
+    "name": "Напоминание о зарядке",
+    "description": "Выводит окошко с текстом о том, что необходимо сделать зарядку.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+    "default_popup": "popup.html"
+    },
+    "icons": { "16": "icon_16.png", "128": "icon_128.png" }
+    }

@@ -1,0 +1,11 @@
+{
+    "name": "Уведомление о зарядке",
+    "description": "Каждые 2 часа выводит уведомление о необходимости сделать упражнения.",
+    "version": "3.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["notifications"],
+    "icons": { "16": "icon_16.png", "128": "icon_128.png" }
+  }

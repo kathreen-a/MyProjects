@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJ8lT/b9U8NTIQz0v4gQTvRVAimqmXzTA0dROTIuOktSrVq6ZaFoB0/D6BZe2C3YQQiQ1jSVXEaeaObEVDIz8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kathreen\\Desktop\\Задания\\Calc\\Calc\\Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kathreen\\.nuget\\packages\\microsoft.codecoverage\\17.9.0-preview-23531-01\\microsoft.codecoverage.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0-preview-23531-01\\microsoft.net.test.sdk.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0-preview-23531-01\\microsoft.testplatform.objectmodel.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0-preview-23531-01\\microsoft.testplatform.testhost.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\kathreen\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
